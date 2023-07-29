@@ -1,0 +1,21 @@
+
+@import '../plugins/datatables/jquery.dataTables.min.css';
+@import '../plugins/datatables/buttons.bootstrap4.min.css';
+@import '../plugins/datatables/fixedHeader.bootstrap.min.css';
+@import '../plugins/datatables/responsive.bootstrap.min.css';
+@import '../plugins/datatables/dataTables.bootstrap4.min.css';
+@import '../plugins/datatables/scroller.bootstrap.min.css';
+
+
+@import '../plugins/timepicker/bootstrap-timepicker.min.css';
+@import '../plugins/bootstrap-colorpicker/css/bootstrap-colorpicker.min.css';
+@import '../plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css';
+@import '../plugins/bootstrap-touchspin/css/jquery.bootstrap-touchspin.min.css';
+
+@import '../plugins/summernote/summernote-bs4.css';
+@import '../plugins/bootstrap-wysihtml5/wysiwyg-color.css';
+@import '../plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.css';
+
+
+@import '../plugins/select2/select2.min.css';
+@import 'icons.css';

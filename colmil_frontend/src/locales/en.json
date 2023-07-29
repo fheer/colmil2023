@@ -1,0 +1,34 @@
+{
+    "nav": {
+        "Cadet": "Cadet",
+        "Teacher": "Teacher",
+        "UnidadAcademica": "Academic Unit",
+        "Rol": "Role",
+        "Profile": "Profile",
+        "TipoReporte": "Report Type",
+        "TipoReporteVer": "Generarte Report"
+    },
+    "actions": {
+        "init": "Start",
+        "new": "New",
+        "add": "Add",
+        "save": "Save",
+        "send": "Send",
+        "edit": "Edit",
+        "cancel": "Cancel",
+        "destroy": "Delete",
+        "do": "Do",
+        "details": "Details",
+        "changepassword": "Change Password",
+        "reload": "Refresh",
+        "results": "Results",
+        "discard": "Discard",
+        "print": "Print",
+        "preview": "Preview",
+        "validate": "Validate",
+        "generate": "Generate",
+        "download": "Download",
+        "confirm": "Confirm",
+        "cambiopassword": "Change Password"
+    }
+}
